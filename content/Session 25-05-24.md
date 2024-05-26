@@ -42,9 +42,9 @@ tags:
 	- 
 - go to orcs
 	- owlbear on the way
-	![](../../9%20-%20pasted%20images/Pasted%20image%2020240525202045.png)
+	![](images/Pasted%20image%2020240525202045.png)
 	- 3 ghouls attack
-	- ![](../../9%20-%20pasted%20images/Pasted%20image%2020240525212004.png)
+	- ![](images/Pasted%20image%2020240525212004.png)
 	- wyven tor orc camp in hills
 	- i’m 10 ft from entrance so i can cone attack
 		- 6 orcs - one 4 dmg
