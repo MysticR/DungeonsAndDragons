@@ -2,4 +2,4 @@
 ![](images/Pasted%20image%2020240527004856.png)
 
 
-![](Gehrman%20Sparrow.pdf)
+[Character sheet](Gehrman%20Sparrow.pdf)
