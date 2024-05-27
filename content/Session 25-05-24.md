@@ -2,6 +2,12 @@
 tags:
   - Hunting-Rockspider
 ---
+## Encounters
+
+| <center>[[Owlbear]]</center>                    | <center>[[Ghoul]]</center>                      | <center>[[Orc]]</center>                        |
+| ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
+| ![](images/Pasted%20image%2020240527151741.png) | ![](images/Pasted%20image%2020240525212004.png) | ![](images/Pasted%20image%2020240527152125.png) |
+
 - comb for banshee from sister
 - sister goes out and comes backs bleeding
 - carp the farmers son found a tunnel 
@@ -15,7 +21,7 @@ tags:
 
 - 
 
-- Phandalyn
+- [Phandalin](Phandalin.md)
 
 - at banshee knock on helmet instead of getting close 
 - sister tried with comb but got beaten up
@@ -42,9 +48,8 @@ tags:
 	- 
 - go to orcs
 	- owlbear on the way
-	![](images/Pasted%20image%2020240525202045.png)
+	
 	- 3 ghouls attack
-	- ![150](images/Pasted%20image%2020240525212004.png)
 	- wyven tor orc camp in hills
 	- i’m 10 ft from entrance so i can cone attack
 		- 6 orcs - one 4 dmg

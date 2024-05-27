@@ -17,9 +17,10 @@ start-date: 05/04/24
 - [[Gehrman Sparrow]]
 - [[Meluk McDod]]
 - [Får Älskare](Får%20Älskare.md)
-# Outstanding
+# Ongoing
 - [[Quests and Questions (HR)]]
 - [[Next Actions (HR)]]
+- [[Beastiary (HR)]]
 # Major Locations
 - [[Phandalin]]
 # Sessions
