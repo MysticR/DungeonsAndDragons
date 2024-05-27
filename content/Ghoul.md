@@ -18,6 +18,8 @@ Attacks:
 > >[!danger] Attacks
 > >Bite
 > >
-> >Claws
+> >Claws 
+> > >[!warning] 
+> > >Claws caused paralysis, bite should be nasty too
 
 ![](images/Pasted%20image%2020240525212004.png)
