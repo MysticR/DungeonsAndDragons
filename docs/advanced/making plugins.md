@@ -260,11 +260,11 @@ export const ContentPage: QuartzEmitterPlugin = () => {
     ...defaultContentPageLayout,
     pageBody: Content(),
   }
-  const { head, header, beforeBody, pageBody, left, right, footer } = layout
+  const { head, header, beforeBody, pageBody, left, right } = layout
   return {
     name: "ContentPage",
     getQuartzComponents() {
-      return [head, ...header, ...beforeBody, pageBody, ...left, ...right, footer]
+      return [head, ...header, ...beforeBody, pageBody, ...left, ...right]
     },
     async emit(ctx, content, resources, emit): Promise<FilePath[]> {
       const cfg = ctx.cfg.configuration
