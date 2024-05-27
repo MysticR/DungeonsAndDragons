@@ -1,5 +1,6 @@
 ---
 tags:
+  - Session
 ---
 ## Encounters
 
