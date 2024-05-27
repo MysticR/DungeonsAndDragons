@@ -16,7 +16,7 @@ liam’s notes
 - digging old owl well undead, watchtower
 - barfin is mates w oreseekers
 - darren the strong orchard man
-- manor on east main redbrandt hideout same direction as old farm
+- manor on east main [[Redbrands]] hideout same direction as old farm
 - reidoth knows where shit is 80km away in ruins of thundertree
 
 - [Phandalin](Phandalin.md)
@@ -38,12 +38,13 @@ liam’s notes
 - go back to [Agatha the banshee](Agatha%20the%20banshee.md) with wood comb
 	- she did nothing
 - go to [Sister Graele](Sister%20Graele.md) to get heal pots
-- going to orcs
-	- [Owlbear](Owlbear.md) on the way
-	- 
-	- 3 [ghouls](Ghoul.md) attack
-	- wyven tor orc camp in hills
-	- i’m 10 ft from entrance so i can cone attack
-		- 6 [orcs](Orc.md) - one hit with 4 dmg
-		- 1 giant thing
+- In Triboar Trail
+	- going to orcs
+		- [Owlbear](Owlbear.md) on the way
 		- 
+		- 3 [ghouls](Ghoul.md) attack
+		- wyven tor orc camp in hills
+		- i’m 10 ft from entrance so i can cone attack
+			- 6 [orcs](Orc.md) - one hit with 4 dmg
+			- 1 giant thing
+			- 
