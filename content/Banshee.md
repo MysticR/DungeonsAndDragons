@@ -1,0 +1,6 @@
+---
+aliases:
+  - banshee
+tags:
+  - Monster
+---

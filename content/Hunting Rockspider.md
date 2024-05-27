@@ -19,6 +19,7 @@ start-date: 05/04/24
 - [[Quests and Questions (HR)]]
 - [[Next Actions (HR)]]
 - [[Beastiary (HR)]]
+- [[NPCs (HR)]]
 # Major Locations
 - [[Phandalin]]
 # Sessions
