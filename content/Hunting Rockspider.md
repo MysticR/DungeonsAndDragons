@@ -1,7 +1,5 @@
 ---
-tags:
-  - DnD
-  - Campaign
+tags: 
 start-date: 05/04/24
 ---
 - - - 
