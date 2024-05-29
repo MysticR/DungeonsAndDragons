@@ -18,6 +18,7 @@ liam’s notes
 - darren the strong orchard man
 - manor on east main [[Redbrands]] hideout same direction as old farm
 - reidoth knows where shit is 80km away in ruins of thundertree
+- - -
 
 - [Phandalin](Phandalin.md)
 
@@ -41,10 +42,8 @@ liam’s notes
 - In Triboar Trail
 	- going to orcs
 		- [Owlbear](Owlbear.md) on the way
-		- 
 		- 3 [ghouls](Ghoul.md) attack
 		- wyven tor orc camp in hills
 		- i’m 10 ft from entrance so i can cone attack
 			- 6 [orcs](Orc.md) - one hit with 4 dmg
 			- 1 giant thing
-			- 
