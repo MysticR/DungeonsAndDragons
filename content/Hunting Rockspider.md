@@ -6,13 +6,13 @@ start-date: 05/04/24
 >- Start date: 05/04/24
 >- People:
 >     - Alex (DM)
->	- Ethan ([Får Älskare](../../3%20-%20Resources/Får%20Älskare.md))
+>	- Ethan ([Far Alskare](Far%20Alskare.md))
 >	- Liam ([Meluk McDod](Meluk%20McDod))
 >	- Mahid ([Gehrman Sparrow](Gehrman%20Sparrow.md)) 
 # Main Characters
 - [[Gehrman Sparrow]]
 - [[Meluk McDod]]
-- [Får Älskare](Får%20Älskare.md)
+- [[Far Alskare]]
 # Ongoing
 - [[Quests and Questions (HR)]]
 - [[Next Actions (HR)]]
