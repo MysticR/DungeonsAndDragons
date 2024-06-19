@@ -9,18 +9,28 @@ cssclasses:
 
 > [!abstract] Gehrman Sparrow
 > 
-> ![0.25](images/gehrmanicon.jpg)
-> 
->> [!quote] Description
->> 
+>> [!quote] Background
+>>
+>> ![0.25](images/gehrmanicon.jpg)
+>>
 >> *He is a crazy adventurer who began to hunt pirates on the sea before being involved in many Beyonders' incidents at the Demigod level. He doesn't talk much, stays cold and calm all the time while being very assertive with others. Gehrman is also known as **The World** of the [Tarot Club](https://lordofthemysteries.fandom.com/wiki/Tarot_Club "Tarot Club"), a mad believer and the **Angel of Redemption** of The Fool.*
+>>
+>>> [!note] Other
+>>> | | |
+>>> | ---:|:--- |
+>>> | **Height** | 180 cm |
+>>> | **Weight** | 75 kg/165 lbs |
+>>> | **Alignment** | Chaotic Neutral |
+>>> | **Faith** | Church of The Fool | 
 >
 >> [!example] Stats
->>> [!note] Basics
+>>> [!warning] Basics
 >>> 
->>> | Hit Points | Armor Class | Initiative |
->>> |:---:|:---:|:---:|
->>> | 33 | 14 | +3 |
+>>> |     |     |     |     |     |     |
+>>> | ---:|:--- | ---:|:--- | ---:|:--- |
+>>> | **HP** | 33 | **Speed** | 30 | **Passive Perception (WIS)** | 17 |
+>>> | **AC** | 14 | **Proficiency Bonus** | +3 | **Passive Wisdom (INS)** | 14 |
+>>> | **IN** | +3 | **Darkvision** | 120 ft. | **Passive Intelligence (INV)** | 15 |
 >>
 >>> [!tip] Ability Scores
 >>> 
@@ -30,13 +40,6 @@ cssclasses:
 >>> | -1 | +3 | +1 | +2 | +1 | +0 | **Mod** |
 >>> | -1 | +6 | +1 | +5 | +1 | +0 | **Sav** |
 >>
->>> [!warning] Speed and Senses
->>> 
->>> |     |     |     |     |
->>> | ---:|:--- | ---:|:--- |
->>> | **Speed** | 30 | **Passive Perception (WIS)** | 17 |
->>> | **Proficiency Bonus** | +3 | **Passive Wisdom (INS)** | 14 |
->>> | **Darkvision** | 120 ft. | **Passive Intelligence (INV)** | 15 |
 >
 >> [!failure] Actions 
 >> #### Standard actions
@@ -59,7 +62,7 @@ cssclasses:
 >>     - You can ==cast false life on yourself at will== as a 1st-level spell, ==without expending a spell slot or material components==.
 >
 >>[!danger] Spells 
->>| Spell | Source | Save/ATK| Time | Range | Comp | Duration | Notes |
+>>| Spell | Source | SAV/ATK| Time | Range | Comp | Duration | Notes |
 >>| --- | ---| --- | --- | --- | --- | --- | --- | 
 >>| ==Cantrips== | At will | | | | | |
 >>| Eldritch Blast | Warlock | +3 | 1A | 120 ft. | V, S | Instant | Count: 2 |
