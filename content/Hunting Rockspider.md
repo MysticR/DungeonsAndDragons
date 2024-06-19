@@ -5,7 +5,7 @@ start-date: 05/04/24
 >[!info]
 >- Start date: 05/04/24
 >- People:
->     - Alex (DM)
+>	- Alex (DM)
 >	- Ethan ([Far Alskare](Far%20Alskare.md))
 >	- Liam ([Meluk McDod](Meluk%20McDod))
 >	- Mahid ([Gehrman Sparrow](Gehrman%20Sparrow.md)) 

@@ -39,24 +39,24 @@ cssclasses:
 >>> | **Darkvision** | 120 ft. | **Passive Intelligence (INV)** | 15 |
 >
 >> [!failure] Actions 
->> - *Standard actions*
->> 	- Attack, Cast a Spell, Dash, Disengage, Dodge, Help, Hide, Ready, Search, Use an Object, Opportunity Attack, Grapple, Shove, Improvise, Two-Weapon Fighting, Interact with an Object 
->> - *Bonus Actions* 
->> 	- **Cunning Action** 
->> 		- You can take a bonus action on each of your turns to take the ==Dash, Disengage, or Hide== action. 
->> - *Special*
->> 	- **Sneak Attack** 
->> 		- Once per turn, you can ==deal an extra 2d6 damage== to one creature you hit with an attack with a finesse or ranged weapon if you have advantage on the attack roll. You don’t need advantage on the attack roll if another enemy of the target is within 5 ft. of it, that enemy isn’t incapacitated, and you don’t have disadvantage on the attack roll. 
+>> #### Standard actions
+>> - Attack, Cast a Spell, Dash, Disengage, Dodge, Help, Hide, Ready, Search, Use an Object, Opportunity Attack, Grapple, Shove, Improvise, Two-Weapon Fighting, Interact with an Object 
+>> #### Bonus Actions 
+>> - **Cunning Action** 
+>>     - You can take a bonus action on each of your turns to take the ==Dash, Disengage, or Hide== action. 
+>> #### Special
+>> - **Sneak Attack** 
+>>     - Once per turn, you can ==deal an extra 2d6 damage== to one creature you hit with an attack with a finesse or ranged weapon if you have advantage on the attack roll. You don’t need advantage on the attack roll if another enemy of the target is within 5 ft. of it, that enemy isn’t incapacitated, and you don’t have disadvantage on the attack roll. 
 >
 >> [!info] Features
 >> - **Fancy Footwork**  
->> 	- During your turn, if you make a ==melee attack== against a creature, that ==creature can’t make opportunity attacks against you for the rest of your turn==. 
+>>     - During your turn, if you make a ==melee attack== against a creature, that ==creature can’t make opportunity attacks against you for the rest of your turn==. 
 >> - **Dark One’s Blessing**
->> 	- When you reduce a hostile creature to 0 HP, you ==gain 2 temp HP==.
+>>     - When you reduce a hostile creature to 0 HP, you ==gain 2 temp HP==.
 >> - **Rakish Audacity**
->> 	- You add your CHA modifier (+0) to your initiative rolls. You ==don’t need advantage on the attack roll to use your Sneak Attack against a creature if you are within 5 ft. of it, no other creatures are within 5 ft. of you, and you don’t have disadvantage on the attack roll.== 
+>>     - You add your CHA modifier (+0) to your initiative rolls. You ==don’t need advantage on the attack roll to use your Sneak Attack against a creature if you are within 5 ft. of it, no other creatures are within 5 ft. of you, and you don’t have disadvantage on the attack roll.== 
 >> - **Fiendish Vigor** 
->> 	- You can ==cast false life on yourself at will== as a 1st-level spell, ==without expending a spell slot or material components==.
+>>     - You can ==cast false life on yourself at will== as a 1st-level spell, ==without expending a spell slot or material components==.
 >
 >>[!danger] Spells 
 >>| Spell | Source | Save/ATK| Time | Range | Comp | Duration | Notes |
