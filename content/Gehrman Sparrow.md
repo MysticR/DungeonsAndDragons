@@ -71,7 +71,7 @@ cssclasses:
 >>| Burning Hands | Warlock | DEX 11 | 1A | Self/15 ft. Cone | V, S | Instant | |
 >>| False Life | Eldritch Inv. | - | 1A | Self | V, S, M | 1 hour | |
 >
->>[!bug] Skills
+>>[!question] Skills
 >>| **PROF** | **MOD** | **SKILL**           | **BONUS** |
 >>|:---: |:---:| :---:           | :---: |
 >>| ==P==    | DEX | Acrobatics      |  +6   |
