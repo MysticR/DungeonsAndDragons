@@ -26,9 +26,9 @@ cssclasses:
 >>> 
 >>> |     |     |     |     | **Passive** |     |
 >>> | ---:|:--- | ---:|:--- | ---:|:--- |
->>> | **HP** | 33 | **Speed** | 30 | **Perception (WIS)** | 17 |
->>> | **AC** | 14 | **Proficiency Bonus** | +3 |  **Wisdom (INS)** | 14 |
->>> | **IN** | +3 | **Darkvision** | 120 ft. | **Intelligence (INV)** | 15 |
+>>> | **HP** | 33 | **Speed** | 30 | **Per. (WIS)** | 17 |
+>>> | **AC** | 14 | **Proficiency** | +3 | **Wis. (INS)** | 14 |
+>>> | **IN** | +3 | **Darkvision** | 120 ft. | **Int. (INV)** | 15 |
 >>
 >>> [!tip] Ability Scores
 >>> 
