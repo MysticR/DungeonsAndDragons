@@ -20,7 +20,7 @@ cssclasses:
 >>> 
 >>> | Hit Points | Armor Class | Initiative |
 >>> |:---:|:---:|:---:|
-| 33 | 14 | +3 |
+>>> | 33 | 14 | +3 |
 >>
 >>> [!tip] Ability Scores
 >>> 
@@ -32,7 +32,7 @@ cssclasses:
 >>
 >>> [!warning] Speed and Senses
 >>> 
->>> |     |           |     |
+>>> |     |     |     |     |
 >>> | ---:|:--- | ---:|:--- |
 >>> | **Speed** | 30 | **Passive Perception (WIS)** | 17 |
 >>> | **Proficiency Bonus** | +3 | **Passive Wisdom (INS)** | 14 |
@@ -64,7 +64,7 @@ cssclasses:
 >>| ==Cantrips== | At will | | | | | |
 >>| Eldritch Blast | Warlock | +3 | 1A | 120 ft. | V, S | Instant | Count: 2 |
 >>| Toll the Dead | Warlock | WIS 11 | 1A | 60 ft. | V, S | Instant | |
->>| ==1st Level== | 2 Pact <input type="checkbox"> <input type="checkbox"> | | | | | |
+>>| ==1st Level== | 2 Pact  | | | | | |
 >>| Hex (C) | Warlock | - | 1BA | 90 ft. | V, S, M | Conc. up to 1 hr | |
 >>| Protection from Evil and Good (C) | Warlock | - | 1A | Touch | V, S, M | Conc. up to 10 min | |
 >>| Burning Hands | Warlock | DEX 11 | 1A | Self/15 ft. Cone | V, S | Instant | |
