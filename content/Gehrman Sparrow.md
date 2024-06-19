@@ -7,7 +7,7 @@ cssclasses:
   - image-borders
 ---
 
-> [!abstract] Gehrman Sparrow
+> [!abstract] Gehrman Sparrow - Rogue 3 / Warlock 2
 > 
 >> [!quote] Background
 >>
@@ -70,7 +70,27 @@ cssclasses:
 >>| Protection from Evil and Good (C) | Warlock | - | 1A | Touch | V, S, M | Conc. up to 10 min | |
 >>| Burning Hands | Warlock | DEX 11 | 1A | Self/15 ft. Cone | V, S | Instant | |
 >>| False Life | Eldritch Inv. | - | 1A | Self | V, S, M | 1 hour | |
-
-
+>
+>>[!bug] Skills
+>>| **PROF** | **MOD** | **SKILL**           | **BONUS** |
+>>|:---: |:---:| :---:           | :---: |
+>>| P    | DEX | Acrobatics      |  ==+6==   |
+>>| N    | WIS | Animal Handling |  +1   |
+>>| N    | INT | Arcana          |  +2   |
+>>| N    | STR | Athletics       |  -1   |
+>>| N    | CHA | Deception       |  +0   |
+>>| N    | INT | History         |  +2   |
+>>| P    | WIS | Insight         |  ==+4==   |
+>>| N    | CHA | Intimidation    |  +0   | 
+>>| P    | INT | Investigation   |  ==+5==   |
+>>| N    | WIS | Medicine        |  +1   |
+>>| N    | INT | Nature          |  +2   |
+>>| E    | WIS | Perception      |  ==+7==   |
+>>| P    | CHA | Performance     |  +3   |
+>>| N    | CHA | Persuasion      |  +0   |
+>>| P    | INT | Religion        |  +5   |
+>>| N    | DEX | Sleight of Hand |  +3   |
+>>| E    | DEX | Stealth         |  ==+9==   |
+>>| N    | WIS | Survival        |  +1   |
 
 [Click for character sheet](Gehrman%20Sparrow.pdf)
