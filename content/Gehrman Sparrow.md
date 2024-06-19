@@ -24,11 +24,11 @@ cssclasses:
 >> [!example] Stats
 >>> [!warning] Basics
 >>> 
->>> |     |     |     |     |     |     |
+>>> |     |     |     |     | **Passive** |     |
 >>> | ---:|:--- | ---:|:--- | ---:|:--- |
->>> | **HP** | 33 | **Speed** | 30 | **Passive Per. (WIS)** | 17 |
->>> | **AC** | 14 | **Proficiency Bonus** | +3 | **Passive Wis. (INS)** | 14 |
->>> | **IN** | +3 | **Darkvision** | 120 ft. | **Passive Int. (INV)** | 15 |
+>>> | **HP** | 33 | **Speed** | 30 | **Perception (WIS)** | 17 |
+>>> | **AC** | 14 | **Proficiency Bonus** | +3 |  **Wisdom (INS)** | 14 |
+>>> | **IN** | +3 | **Darkvision** | 120 ft. | **Intelligence (INV)** | 15 |
 >>
 >>> [!tip] Ability Scores
 >>> 
