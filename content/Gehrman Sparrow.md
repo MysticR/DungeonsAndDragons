@@ -16,21 +16,19 @@ cssclasses:
 >> *He is a crazy adventurer who began to hunt pirates on the sea before being involved in many Beyonders' incidents at the Demigod level. He doesn't talk much, stays cold and calm all the time while being very assertive with others. Gehrman is also known as **The World** of the [Tarot Club](https://lordofthemysteries.fandom.com/wiki/Tarot_Club "Tarot Club"), a mad believer and the **Angel of Redemption** of The Fool.*
 >>
 >>> [!note] Other
->>> | | |
->>> | ---:|:--- |
->>> | **Height** | 180 cm |
->>> | **Weight** | 75 kg/165 lbs |
->>> | **Alignment** | Chaotic Neutral |
->>> | **Faith** | Church of The Fool | 
+>>> |     |     |     |     |
+>>> | ---:|:--- | ---:|:--- |
+>>> | **Height** | 180 cm | **Alignment** | Chaotic Neutral |
+>>> | **Weight** | 75 kg/165 lbs | **Faith** | Church of The Fool | 
 >
 >> [!example] Stats
 >>> [!warning] Basics
 >>> 
 >>> |     |     |     |     |     |     |
 >>> | ---:|:--- | ---:|:--- | ---:|:--- |
->>> | **HP** | 33 | **Speed** | 30 | **Passive Perception (WIS)** | 17 |
->>> | **AC** | 14 | **Proficiency Bonus** | +3 | **Passive Wisdom (INS)** | 14 |
->>> | **IN** | +3 | **Darkvision** | 120 ft. | **Passive Intelligence (INV)** | 15 |
+>>> | **HP** | 33 | **Speed** | 30 | **Passive Per. (WIS)** | 17 |
+>>> | **AC** | 14 | **Proficiency Bonus** | +3 | **Passive Wis. (INS)** | 14 |
+>>> | **IN** | +3 | **Darkvision** | 120 ft. | **Passive Int. (INV)** | 15 |
 >>
 >>> [!tip] Ability Scores
 >>> 
