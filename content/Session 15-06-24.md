@@ -16,9 +16,10 @@ mid-fight
 > - [Gehrman Sparrow](Gehrman%20Sparrow.md) almost died, had 4 hp, but locked in and clutched tf up
 > - [Meluk](Meluk%20McDod.md) good ol’ reliable tanked hits
 
-coming back to [Phandalin](Phandalin.md), redbrands fucked up mommy’s shop 
+coming back to [Phandalin](Phandalin.md), [Redbrands](Redbrands.md) fucked up mommy’s (Linene, master of Lionshield Coster here) shop 
+- we’re all pissed because she saved our asses in a previous battle with [Redbrands](Redbrands.md) ruffians
 
-go to redbrands hideout
+go to [Redbrands](Redbrands.md) hideout
 weird creature thing reads our minds or something
 - big eye mystical thing
 	- [Nothic](Nothic.md)

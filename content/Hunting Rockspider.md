@@ -22,4 +22,5 @@ start-date: 05/04/24
 - [[Phandalin]]
 # Sessions
 - [Session 25-05-24](Session%2025-05-24.md)
+- [Session 15-06-24](Session%2015-06-24.md)
 

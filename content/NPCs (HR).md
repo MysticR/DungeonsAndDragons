@@ -5,7 +5,7 @@ At [Phandalin](Phandalin.md)
 - [Harbin the townmaster](Harbin%20the%20townmaster.md)
 - Sildar we saved from goblins, our boss guy
 - [[kiano guy find friends with sildar and law shit]]
-- Redbrands led by [[Glass Staff]]
+- Redbrands led by [[../../03 - Resources/Glasstaff]]
 
 
 
