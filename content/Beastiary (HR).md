@@ -6,4 +6,4 @@
 | <center>**[Goblin](Goblin.md)**</center>                                              | <center>[Ogre](Ogre.md)</center>                                       |      <center>[Nothic](Nothic.md)</center>       |
 | ![](images/Pasted%20image%2020240527160633.png)                                       | ![773](images/Pasted%20image%2020240615185449.png)                     | ![](images/Pasted%20image%2020240615223737.png) |
 | <center>[[Bugbear]]</center>                                                          |                                                                        |                                                 |
-| ![](../../99%20-%20meta/01%20-%20pasted%20images/Pasted%20image%2020240726204019.png) |                                                                        |                                                 |
+| ![](images/Pasted%20image%2020240726204019.png) |                                                                        |                                                 |
