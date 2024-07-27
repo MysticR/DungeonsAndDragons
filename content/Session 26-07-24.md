@@ -4,7 +4,7 @@
 [Gehrman](Gehrman%20Sparrow.md) front flipped into the room just because, lands it well leaving everyone perplexed but impressed
 [Far](Far%20Alskare.md) tried to follow by doing a back flip, failed miserably and got 4 damage, tried to style it with the 
 
-![Pasted image 20240726192338](../../99%20-%20meta/01%20-%20pasted%20images/Pasted%20image%2020240726192338.png)
+![](../../99%20-%20meta/01%20-%20pasted%20images/Pasted%20image%2020240726192338.png)
 
 doesn’t work too well cause he’s winded a bit
 - - -
@@ -33,7 +33,6 @@ random guy who brought us here blocks [Meluk](Meluk%20McDod.md) and [Gehrman](Ge
 [Gehrman](Gehrman%20Sparrow.md) interrogated a guy, he said: 
 - bugbears taking dwarf off to a castle (cragmore castle)
 
-
 > [!danger] FIGHT
 > TO RECAP [Far](Far%20Alskare.md) DID NOTHING, BLEW UP THE MAIN ROOM WITH MAIN STUFF (200 SOMETHING GOLD, FIREBALL SCROLL, AND FUCKING SEDUCTION SCROLL THAT [Gehrman](Gehrman%20Sparrow.md) COULD’VE USED), HAD ONE JOB: TO CATCHUP AND FOLLOW [Glasstaff](../../03%20-%20Resources/Glasstaff.md). COULDN’T FUCKING DO THAT, HAD A WANK AND A STROLL WHILST [Meluk](Meluk%20McDod.md) WAS GETTING GANGBANGED BY 6/7 ENEMIES AND [Gehrman](Gehrman%20Sparrow.md) WAS RUSHING TO GO HELP. 
 > 
@@ -41,7 +40,7 @@ random guy who brought us here blocks [Meluk](Meluk%20McDod.md) and [Gehrman](Ge
 > 
 > PRIOR TO THIS FIGHT ALL [Far](Far%20Alskare.md) DID WAS MAKING EVERY LIQUID LOOK, TASTE AND SMELL LIKE CUM, AS WELL AS MAKING IT LOOK LIKE EVERYONE SHIT THEMSELVES CHEERS THANKS MATE 
 >  
-> ![ALESTORM - Fucked With An Anchor](ALESTORM%20-%20Fucked%20With%20An%20Anchor.mp3)
+> ![](ALESTORM%20-%20Fucked%20With%20An%20Anchor.mp3)
 
 fancy magic mace lost somewhere in something wave echo cave potentially, confirm 
 
