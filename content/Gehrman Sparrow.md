@@ -27,7 +27,7 @@ cssclasses:
 >>> |     |     |     |     | **Passive** |     |
 >>> | ---:|:--- | ---:|:--- | ---:|:--- |
 >>> | **HP** | 33 | **Speed** | 30 | **Per. (WIS)** | 17 |
->>> | **AC** | 14 | **Proficiency** | +3 | **Wis. (INS)** | 14 |
+>>> | **AC** | 15 | **Proficiency** | +3 | **Wis. (INS)** | 14 |
 >>> | **IN** | +3 | **Darkvision** | 120 ft. | **Int. (INV)** | 15 |
 >>
 >>> [!tip] Ability Scores

@@ -1,11 +1,9 @@
-# Session 15-06-24
-
 ## Encountered monsters
 
 | <center>[[Ogre]]</center>                          | <center>[[Nothic]]</center>                        |
 | -------------------------------------------------- | -------------------------------------------------- |
 | ![300](images/Pasted%20image%2020240615185449.png) | ![300](images/Pasted%20image%2020240615223756.png) |
-
+- - -
 mid-fight
 - identified giant monster as ogre
 - [Gehrman Sparrow](Gehrman%20Sparrow.md) and [Meluk](Meluk%20McDod.md) 
