@@ -1,3 +1,7 @@
+---
+tags:
+  - Session
+---
 ## Encountered monsters
 
 | <center>[[Ogre]]</center>                          | <center>[[Nothic]]</center>                        |
