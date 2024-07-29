@@ -46,8 +46,7 @@ random guy who brought us here blocks [Meluk](Meluk%20McDod.md) and [Gehrman](Ge
 > 
 > PRIOR TO THIS FIGHT ALL [Far](Far%20Alskare.md) DID WAS MAKING EVERY LIQUID LOOK, TASTE AND SMELL LIKE CUM, AS WELL AS MAKING IT LOOK LIKE EVERYONE SHIT THEMSELVES CHEERS THANKS MATE 
 >  
->  ![ALESTORM - FUCKED WITH AN ANCHOR](images/ALESTORM%20-%20Fucked%20With%20An%20Anchor.mp3)
->  [ALESTORM - Fucked With An Anchor](https://www.youtube.com/watch?v=th4Czv1j3F8)
+>  ![[ALESTORM - Fucked With An Anchor](https://www.youtube.com/watch?v=th4Czv1j3F8)](images/ALESTORM%20-%20Fucked%20With%20An%20Anchor.mp3) 
 
 fancy magic mace lost somewhere in something wave echo cave potentially, confirm 
 
