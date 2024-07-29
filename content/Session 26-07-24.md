@@ -19,9 +19,13 @@ doesn’t work too well cause he’s a bit winded
 > prison lady mommy mona, husband was Thel who tried to defy [Redbrands](Redbrands.md) and got killed
 
 - - - 
-found barrels of food and stuff, one of them is ale
-- [Meluk](Meluk%20McDod.md) starts drinking a cuppa, [Gehrman](Gehrman%20Sparrow.md) nudges [Far](Far%20Alskare.md) and points at [Meluk](Meluk%20McDod.md)
-	- [Far](Far%20Alskare.md) proceeds to cast prestidigitation to make the liquid, look, smell, and taste like ejaculate (cum) 
+
+> [!important] -.-
+> found barrels of food and stuff, one of them is ale
+> 
+> [Meluk](Meluk%20McDod.md) starts drinking a cuppa, [Gehrman](Gehrman%20Sparrow.md) nudges [Far](Far%20Alskare.md) and points at [Meluk](Meluk%20McDod.md)
+> 
+> [Far](Far%20Alskare.md) proceeds to cast prestidigitation to make the liquid, look, smell, and taste like ejaculate (cum) 
 
 guy brings us to room, another guy came in and was suspicious, still brought us to [Glasstaff](Glasstaff.md) 
 
@@ -34,7 +38,8 @@ random guy who brought us here blocks [Meluk](Meluk%20McDod.md) and [Gehrman](Ge
 [Gehrman](Gehrman%20Sparrow.md) kills the guy with a crit, dashes into the room, and dashes into the door, finds another secret door. 
 
 
-> [!tip] [Meluk](Meluk%20McDod.md) follows and goes on ahead, catching up to [Glasstaff](Glasstaff.md), who is in shock as to how a 4ft ish dwarf guy in heavy armor, with a shield, AND a war hammer in hand caught up to him.
+> [!tip] -.-
+> [Meluk](Meluk%20McDod.md) follows and goes on ahead, catching up to [Glasstaff](Glasstaff.md), who is in shock as to how a 4ft ish dwarf guy in heavy armor, with a shield, AND a war hammer in hand caught up to him.
 
 [Gehrman](Gehrman%20Sparrow.md) interrogated a guy, he said: 
 - bugbears taking dwarf off to a castle (cragmore castle)
