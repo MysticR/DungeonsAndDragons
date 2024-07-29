@@ -1,1 +1,1 @@
-Gang controlling [Phandalin](Phandalin.md) scaring people led by [Glasstaff](../../03%20-%20Resources/Glasstaff.md)
+Gang controlling [Phandalin](Phandalin.md) scaring people led by [Glasstaff](Glasstaff.md)
