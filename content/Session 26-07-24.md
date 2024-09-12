@@ -42,7 +42,7 @@ random guy who brought us here blocks [Meluk](Meluk%20McDod.md) and [Gehrman](Ge
 > [Meluk](Meluk%20McDod.md) follows and goes on ahead, catching up to [Glasstaff](Glasstaff.md), who is in shock as to how a 4ft ish dwarf guy in heavy armor, with a shield, AND a war hammer in hand caught up to him.
 
 [Gehrman](Gehrman%20Sparrow.md) interrogated a guy, he said: 
-- bugbears taking dwarf off to a castle (cragmore castle)
+- bugbears taking dwarf off to a castle (cragmaw castle)
 
 > [!danger] ~
 > TO RECAP [Far](Far%20Alskare.md) DID NOTHING, BLEW UP THE MAIN ROOM WITH MAIN STUFF (200 SOMETHING GOLD, FIREBALL SCROLL, AND FUCKING SEDUCTION SCROLL THAT [Gehrman](Gehrman%20Sparrow.md) COULD’VE USED), HAD ONE JOB: TO CATCHUP AND FOLLOW [Glasstaff](Glasstaff.md). COULDN’T FUCKING DO THAT, HAD A WANK AND A STROLL WHILST [Meluk](Meluk%20McDod.md) WAS GETTING GANGBANGED BY 6/7 ENEMIES AND [Gehrman](Gehrman%20Sparrow.md) WAS RUSHING TO GO HELP. 
